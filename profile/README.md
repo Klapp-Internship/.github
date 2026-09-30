@@ -10,4 +10,4 @@ This organization contains projects, resources, and experiments created during t
 
 ## Repositories
 
-(!**Feature Usage**)(https://github.com/Klapp-Internship/01_feature_usage)
+![**Feature Usage**](https://github.com/Klapp-Internship/01_feature_usage)
