@@ -10,6 +10,6 @@ This organization contains projects, resources, and experiments created during t
 
 ## Repositories
 
-![*Feature Usage*](https://github.com/Klapp-Internship/01_feature_usage)
-![*Churn Early Detection*](https://github.com/Klapp-Internship/04_churn_frueherkennung)
+- ![*Feature Usage*](https://github.com/Klapp-Internship/01_feature_usage)
+- ![*Churn Early Detection*](https://github.com/Klapp-Internship/04_churn_frueherkennung)
 
